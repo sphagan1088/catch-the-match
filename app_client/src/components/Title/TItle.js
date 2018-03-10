@@ -5,7 +5,7 @@ import './Title.css';
 class Title extends Component {
     render() {
         return (
-            <div>
+            <div className="title">
                 <h1>Catch the Match</h1>
             </div>
         )
